@@ -1,0 +1,27 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "Aman Pandey's Personal Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqudore/personal-porfoli.git"
+  },
+  "keywords": [
+    "portfolio",
+    "vercel",
+    "analytics"
+  ],
+  "author": "Aman Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqudore/personal-porfoli/issues"
+  },
+  "homepage": "https://github.com/aqudore/personal-porfoli#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
